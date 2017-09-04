@@ -1,1 +1,32 @@
- 
+
+For drawing onto screen
+	http://libyue.com/docs/v0.1.1/js/ 
+
+Giving nodejs a gui
+	https://www.npmjs.com/package/libui-node
+	
+interacting with ui
+	http://robotjs.io/docs/syntax#screencapturex-y-width-height
+	
+timers?
+	https://nodejs.org/api/timers.html
+	
+Focused window detection 
+	https://www.npmjs.com/package/active-window 
+
+
+
+
+Make struct for containing gui information
+	https://stackoverflow.com/questions/502366/structs-in-javascript
+
+
+
+
+Probs usless
+
+Gui in console 
+	https://www.npmjs.com/package/grunt-prompt
+	
+meme loading bar
+	https://www.npmjs.com/package/progress-bar
